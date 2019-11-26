@@ -1,5 +1,0 @@
-
-
-Remote repo checking with friend url
-
-yes
